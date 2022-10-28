@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TD
-    A[React.js] --> B{A client-side JS library};
-    A --> C[All about building modern reactive user interfaces for the web];
+    A[Request] <--> B{HTML Page};
+   A <--> B
 ```
 
 # EX. 1
