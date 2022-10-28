@@ -1,3 +1,9 @@
+```mermaid
+flowchart TD
+    A[Request] --> B{HTML Page};
+   A[Request] <--> B{HTML Page}
+```
+
 # EX. 1
 
 ## Write a JavaScript function that returns a passed string with letters in alphabetical order.
